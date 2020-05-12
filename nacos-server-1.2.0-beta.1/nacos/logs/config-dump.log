@@ -1,0 +1,4 @@
+2020-03-01 16:58:51,292 WARN [dump-ignore] ignore to save cache file. groupKey=example.properties+DEFAULT_GROUP, md5=df94f1b965ad8e30a36664d9ea46280a, lastModifiedOld=1583053120463, lastModifiedNew=1583053131186
+
+2020-03-01 20:35:37,761 INFO [dump-all-ok] example.properties+DEFAULT_GROUP, 1583053278890, length=29, md5=e8258a11e84161e7a42e93b1def39b23
+
